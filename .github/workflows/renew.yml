@@ -2,7 +2,7 @@ name: Auto Renew Bot-hosting
 
 on:
   schedule:
-    - cron: '56 5 * * *'
+    - cron: '25 2 * * *'
   workflow_dispatch:
 
 jobs:
